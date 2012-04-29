@@ -1,0 +1,7 @@
+##	This the design manul added by Robert Liu
+##	Apr 29 2012
+
+*arch: libpcap + slang + ncurses
+	** libpcap: grab packets
+	** ncurses: create a screen to display the filtered results
+  ** slang: embeded in C code, do some printing and setting works
